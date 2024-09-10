@@ -1,6 +1,4 @@
 
-
-
 ## About the Project
 
 This is a simple project includes a screen for search and sort employees based on the designation , name, department
@@ -22,3 +20,7 @@ once setup the code from git follw the below
 - Run the program using php artisan serve
 - Run npm using npm run dev
 - run http://127.0.0.1:8000/
+
+below is the example output
+
+![Project Screenshot](https://github.com/mehfil-basheer/employeeList/blob/main/image.png)
